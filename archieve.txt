@@ -1,0 +1,6 @@
+Book,B001,Deep Learning,2018,Ian Goodfellow,775
+Book,B002,Python Tricks,2021,Dan Bader,464
+Article,A101,Quantum Computing,2022,Nature,10.1234/qc567
+Article,A102,AI in Medicine,2020,Lancet,10.5678/med432
+Podcast,P301,TechTalk AI,2023,Jane Doe,45
+Podcast,P302,History Bites,2019,John Smith,30
